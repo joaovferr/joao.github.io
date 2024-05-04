@@ -29,6 +29,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
   <img src="/images/dollar_wallet_700.png" width="600" height="600" alt="test">
 </p>
 
+![test](/images/dollar_wallet_700.png){:width="600px" height="600px"}
 
 ### Prostate Cancer Prediction using Machine Learning
 [Project on Github](https://www.mdpi.com/1424-8220/22/11/4240)
