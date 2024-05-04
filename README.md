@@ -29,15 +29,13 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
   <img src="./images/dollar_wallet_700.png" width="600" height="600" alt="test">
 </p>
 
-![test](/images/dollar_wallet_700.png){:width="600px" height="600px"}
-
 ### Prostate Cancer Prediction using Machine Learning
 [Project on Github](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 <p align="center">
-  <img src="/images/prostate_cancer.png" width="800" height="600" alt="test">
+  <img src="./images/prostate_cancer.png" width="800" height="600" alt="test">
 </p>
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
