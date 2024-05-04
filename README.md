@@ -10,6 +10,7 @@
 **Data Analyst Intern @ TopBuild Corp. (_May 2024 - Present_)**
 - NA
 - NA
+  
 **Financial Analyst @ TopBuild Corp. (_January 2022 - August 2023_)**
 - Managed Income Statements for 11 Mergers and Acquisitions using Excel, extracting data via OneStream
 - Coordinated with over 80 branch managers to monitor and report Residential Insulation Units and Sales
