@@ -26,7 +26,7 @@
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 <p align="center">
-  <img src="/images/dollar_wallet_700.png" width="600" height="600" alt="test">
+  <img src="./images/dollar_wallet_700.png" width="600" height="600" alt="test">
 </p>
 
 ![test](/images/dollar_wallet_700.png){:width="600px" height="600px"}
