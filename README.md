@@ -25,7 +25,10 @@
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![test](/images/dollar_wallet_700.png){:width="10px" height="10px"}
+<p align="center">
+  <img src="/images/dollar_wallet_700.png" width="100" height="100" alt="test">
+</p>
+
 
 ### Prostate Cancer Prediction using Machine Learning
 [Project on Github](https://www.mdpi.com/1424-8220/22/11/4240)
